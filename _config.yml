@@ -4,10 +4,10 @@ SEOTitle: 陈嘉恒的博客 | cjh Blog # 浏览器中显示的名字
 header-img: img/scene4.jpg   # 主页背景
 email: sharkjingyang@gmail.com  
 description: "Every failure is leading towards success."
-keyword: "Jing Yang, SJTU, mathematics, Blog, JY"
-url: "http://sharkjingyang.github.io"          # 博客地址 for absolute URL
+keyword: "Jiaheng Chen, SJTU, mathematics, Blog, cjh"
+url: "http://jiahengchen2000.github.io"          # 博客地址 for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog' 这个是在url后加的，但我们不用填
-github_repo: "https://github.com/sharkjingyang/sharkjingyang.github.io.git" # you code repository
+github_repo: "https://github.com/jiahengchen2000/jiahengchen2000.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,8 +20,8 @@ sidebar-avatar: /img/jy.jpg      # use absolute URL, seeing it's used in both `/
 RSS: false
 weibo_username:     6097901747/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1
 facebook_username:  profile.php?id=100024669250217
-github_username:  sharkjingyang 
-instagram_username: shark_jing 
+github_username:  jiahengchen2000 
+instagram_username: jiahengchen2000 
 # zhihu_username: people/jing-yang-77-49/activities
 
 
