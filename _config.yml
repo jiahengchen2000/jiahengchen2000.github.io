@@ -40,7 +40,36 @@ MathJax : true
 gems: [jekyll-paginate]
 
 
+<div class="zh post-container">
 
+    <!--copied from markdown -->
+    <blockquote><p>月晕而风<br>
+    础润而雨</p></blockquote>
+
+    <p>Hey，我是<strong>陈嘉恒</strong>，是上海交通大学数学与科学学院的一名本科生。</p>
+
+    <p>学习、科研之余，我是一个乒乓球爱好者。My research interests  <a href="https://jiahengchen2000.github.io/Research/"> </p> 
+
+    <p>这是我的利用 <a href="https://pages.github.com/">GitHub Pages</a> 与 <a href="http://jekyll.com.cn/">Jekyll</a> 搭建的个人博客。感谢<a href="https://github.com/qiubaiying">GitHub·BY</a>提供的模板。</p>
+
+     <!-- <p>更详细的个人介绍<a href="https://sharkjingyang.github.io/2019/11/21/About-Jing-Yang/">About Jing Yang</a>。</p> -->
+
+    <h5>Introduction</h5>
+
+    <p>I am Jiaheng Chen, an undergraduate student majoring in Applied Mathematics at <a href="http://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. I was a member of <a href="https://zhiyuan.sjtu.edu.cn/">Zhiyuan College</a>, which is an elite mathematics program in SJTU for top 5% talented students.</p>
+
+    <p>My current research field :<p>
+    <ul>
+    <li>Machine learning theories and algorithms</li>
+    <li>Non-convex optimization</li>
+    <li>Optimal transport</li>
+    </ul>
+
+    <!-- <p>For more information about me, see <a href="https://sharkjingyang.github.io/2019/11/21/About-Jing-Yang/">About Jiaheng Chen</a></p> -->
+    
+    
+    
+</div>
 
 # Markdown settings
 # replace redcarpet to kramdown,
