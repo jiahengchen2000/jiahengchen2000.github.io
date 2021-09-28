@@ -1,4 +1,5 @@
-----
+@@ -1,76 +0,0 @@
+---
 layout:     post
 title:      话题和思考
 subtitle:   为了坚持更新博客，每天（假装）想一个小话题写写自己的思考
@@ -10,7 +11,7 @@ header-img: img/blog_joker.jpg
 catalog: true
 tags:
     - Writing
-    - Topic	
+    - Topic 
     - Updating
 ---
 
